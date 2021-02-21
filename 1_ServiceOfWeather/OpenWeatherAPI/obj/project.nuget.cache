@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rpWMczP2fDp5WgDqrc4fUacYKe/nd22YcenAKIqaE05v7eMcZmE4qBXiLtVH7nJirGzplU8WleXtXEDa/rXFBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Йонас\\Desktop\\Новая папка (2)\\WeatherService\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Йонас\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
