@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServiceVerif";
+
+package verif;
+
+
+service Verification {
+
+  rpc CheckClient (PhonePinRequest) returns (StatusResponse);
+}
+
+message PhonePinRequest {
+  int64 phone = 1;
+  int64 pin = 2;
+}
+
+message StatusResponse {
+  bool status = 1;
+}
