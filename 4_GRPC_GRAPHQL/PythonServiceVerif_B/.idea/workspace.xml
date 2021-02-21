@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f53f9a53-6fd2-4079-a0a2-93b7318bc6b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kSRtIKVuoRmOdUIprArdwQmFKp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.ServiceByVladimir">
+    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GrapheneHelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ServiceByVladimir" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GrapheneHelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServiceByVladimir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ServiceByVladimir" />
+        <item itemvalue="Python.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f53f9a53-6fd2-4079-a0a2-93b7318bc6b7" name="Default Changelist" comment="" />
+      <created>1605692218899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605692218899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606585451313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1606585451313" />
+    <state x="2420" y="205" key="FileChooserDialogImpl" timestamp="1605698448502">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="2420" y="205" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1440.900@1920.0.1440.900" timestamp="1605698448502" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1606593419093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1606593419093" />
+    <state width="1402" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.900@1920.0.1440.900" timestamp="1605787575521" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1606593419093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1606593419093" />
+    <state width="1402" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.900@1920.0.1440.900" timestamp="1605787575521" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1606593419093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1606593419093" />
+    <state width="1402" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.900@1920.0.1440.900" timestamp="1605787575521" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1606593419093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1606593419093" />
+    <state width="1402" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.900@1920.0.1440.900" timestamp="1605787575521" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1605790666240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1605790666240" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1605790666240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1605790666240" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1605790666240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1605790666240" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1605790666240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1605790666240" />
+    <state x="2336" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1606225103694">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="2336" y="274" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1440.900@1920.0.1440.900" timestamp="1606225103694" />
+    <state x="1920" y="0" width="1441" height="717" key="dock-window-1" timestamp="1605696085212">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="1920" y="0" width="1441" height="717" key="dock-window-1/0.0.1920.1040/1920.0.1440.900@0.0.1920.1040" timestamp="1605696085212" />
+  </component>
+</project>

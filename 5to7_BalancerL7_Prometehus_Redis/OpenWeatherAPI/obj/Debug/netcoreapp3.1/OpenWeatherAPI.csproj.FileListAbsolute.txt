@@ -1,0 +1,9 @@
+C:\Users\Jonas\Desktop\Новая папка\TaskAvito5\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.deps.json
+C:\Users\Jonas\Desktop\Новая папка\TaskAvito5\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.dll
+C:\Users\Jonas\Desktop\Новая папка\TaskAvito5\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.pdb
+C:\Users\Jonas\Desktop\Новая папка\TaskAvito5\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.AssemblyInfoInputs.cache
+C:\Users\Jonas\Desktop\Новая папка\TaskAvito5\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.AssemblyInfo.cs
+C:\Users\Jonas\Desktop\Новая папка\TaskAvito5\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Новая папка\TaskAvito5\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.dll
+C:\Users\Jonas\Desktop\Новая папка\TaskAvito5\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.pdb
+C:\Users\Jonas\Desktop\Новая папка\TaskAvito5\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.csprojAssemblyReference.cache

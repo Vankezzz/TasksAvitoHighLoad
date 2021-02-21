@@ -1,0 +1,17 @@
+C:\Users\Йонас\Desktop\WeatherService22-master\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.deps.json
+C:\Users\Йонас\Desktop\WeatherService22-master\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.dll
+C:\Users\Йонас\Desktop\WeatherService22-master\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.pdb
+C:\Users\Йонас\Desktop\WeatherService22-master\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.csprojAssemblyReference.cache
+C:\Users\Йонас\Desktop\WeatherService22-master\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.AssemblyInfoInputs.cache
+C:\Users\Йонас\Desktop\WeatherService22-master\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.AssemblyInfo.cs
+C:\Users\Йонас\Desktop\WeatherService22-master\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\Йонас\Desktop\WeatherService22-master\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.dll
+C:\Users\Йонас\Desktop\WeatherService22-master\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.pdb
+C:\Users\Йонас\Desktop\Новая папка (2)\WeatherService\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.deps.json
+C:\Users\Йонас\Desktop\Новая папка (2)\WeatherService\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.dll
+C:\Users\Йонас\Desktop\Новая папка (2)\WeatherService\OpenWeatherAPI\bin\Debug\netcoreapp3.1\OpenWeatherAPI.pdb
+C:\Users\Йонас\Desktop\Новая папка (2)\WeatherService\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.AssemblyInfoInputs.cache
+C:\Users\Йонас\Desktop\Новая папка (2)\WeatherService\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.AssemblyInfo.cs
+C:\Users\Йонас\Desktop\Новая папка (2)\WeatherService\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\Йонас\Desktop\Новая папка (2)\WeatherService\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.dll
+C:\Users\Йонас\Desktop\Новая папка (2)\WeatherService\OpenWeatherAPI\obj\Debug\netcoreapp3.1\OpenWeatherAPI.pdb

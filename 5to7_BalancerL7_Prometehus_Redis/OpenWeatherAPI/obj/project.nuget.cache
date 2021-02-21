@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNBXQcf8c+ZBULGfV8L0oitY0QbMNblg5rrLOqoCkPZhSirT6Z5wjyhzpzpH4H+61yV/biAQDLfJR1GNB71jUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonas\\Desktop\\Новая папка\\TaskAvito5\\OpenWeatherAPI\\OpenWeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Jonas\\.nuget\\packages\\prometheus-net\\4.1.1\\prometheus-net.4.1.1.nupkg.sha512",
+    "C:\\Users\\Jonas\\.nuget\\packages\\prometheus-net.aspnetcore\\4.1.1\\prometheus-net.aspnetcore.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
